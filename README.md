@@ -1,7 +1,7 @@
 <div align="center">
- <h2 align="center">Social proof section solution</h2>
+ <h2 align="center">Social Links Profile solution</h2>
 <p align='center'>
- <a href="https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA"><strong>Frontend Mentor Challenge</strong></a>
+ <a href="https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     </p>
 </div>
@@ -20,10 +20,10 @@
 
 <div align="center">
 
-![solution preview](./design/desktop-preview.jpg)
+![solution preview](design/preview.jpg)
 
 </div>
-This is a solution to the [Social-proof-section-challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social-proof-section-challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
@@ -52,19 +52,17 @@ Users should be able to:
 
 Ordered
 
-1. In this challenge ,I'm used CSS **Grid** layout system for layouting part.
+1. In this challenge ,I'm used REACT.
 2. Another useful CSS property is used in this challenge **media-queries** for responsive desgin.
-3. **Flex-box** also used.
+
 <!-- Bagdes -->
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Semantic HTML5 markup
 - CSS3
-- SASS
+- REACT
 
 ## Author
 
@@ -73,7 +71,5 @@ Ordered
 ### Run the project
 
 ```bash
-npm install
-npm run compile:sass
-live-server
+npm start
 ```
