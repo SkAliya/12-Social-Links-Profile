@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SkAliya/12-Social-Links-Profile/static/css/main.ade9b15d.css",
-    "main.js": "/SkAliya/12-Social-Links-Profile/static/js/main.24df5186.js",
-    "static/media/ia-white.png": "/SkAliya/12-Social-Links-Profile/static/media/ia-white.cecb6b62a4e57a680c0b.png",
-    "index.html": "/SkAliya/12-Social-Links-Profile/index.html",
-    "main.ade9b15d.css.map": "/SkAliya/12-Social-Links-Profile/static/css/main.ade9b15d.css.map",
-    "main.24df5186.js.map": "/SkAliya/12-Social-Links-Profile/static/js/main.24df5186.js.map"
+    "main.css": "/12-Social-Links-Profile/static/css/main.ade9b15d.css",
+    "main.js": "/12-Social-Links-Profile/static/js/main.391ed23c.js",
+    "static/media/ia-white.png": "/12-Social-Links-Profile/static/media/ia-white.cecb6b62a4e57a680c0b.png",
+    "index.html": "/12-Social-Links-Profile/index.html",
+    "main.ade9b15d.css.map": "/12-Social-Links-Profile/static/css/main.ade9b15d.css.map",
+    "main.391ed23c.js.map": "/12-Social-Links-Profile/static/js/main.391ed23c.js.map"
   },
   "entrypoints": [
     "static/css/main.ade9b15d.css",
-    "static/js/main.24df5186.js"
+    "static/js/main.391ed23c.js"
   ]
 }
