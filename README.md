@@ -57,7 +57,7 @@ Ordered
 
 <!-- Bagdes -->
 
-![](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
